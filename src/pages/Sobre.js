@@ -12,9 +12,9 @@ const Sobre = () => {
                 <p>
                   Meu nome é André, sou um <b>Desenvolvedor Full Stack</b> e resido em São José-SC, da Grande Florianópolis.
                   <br/>
-                  <br/>Tenho experiência de mais de 10 anos como Gerente de E-commerce onde consegui ter excelentes resultados como aumentar em pelomenos 12x o faturamento, além de gerenciar um time de 8 pessoas e realizar cadastro de 20 mil anúncios em dois meses antes de existir APIs públicas de Marketplaces. 
+                  <br/>Tenho experiência de mais de 10 anos como Gerente de E-commerce onde consegui ter excelentes resultados como aumentar em pelomenos 12 vezes o faturamento, além de gerenciar um time de oito pessoas e realizar cadastro de 20 mil anúncios em dois meses antes de existir APIs públicas de Marketplaces. Participei intensamente do desenvolvimento de novos produtos e também de importação de Containers, com geração de Branding e reputação valorosa pela qualidade.
                   <br/>
-                  <br/>Em 2022 resolvi pivotar minha carreira para Desenvolvimento, o que já era um sonho desde muito jovem e venho estudando intensamente para poder  entregar valor aos parceiros.             
+                  <br/>Em 2021 resolvi pivotar minha carreira para Desenvolvimento que já era um sonho antigo e desde então venho estudando intensamente para poder  entregar a melhor qualidade e melhor valor para meus parceiros e contratantes.            
                   <br/>
                   <br/>Já participei de muitos projetos Web e Mobile, profissionais, próprios e acadêmicos em diversas linguagens, bibliotecas e frameworks como: JavaScript, TypeScript, Python, Ruby on Rails, Angular, ReactJs, Redux, ReactNative, Java, Spring, C#, .NET e PostgreSQL. 
                   <br/>
