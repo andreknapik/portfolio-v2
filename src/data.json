@@ -1,0 +1,134 @@
+{
+    "projects": [
+      {
+        "title": "meusQuizzes",
+        "technologies": ["Tailwind", "Angular","C#", ".NET", "PostgreSQL"],
+        "link": "https://meusquizzes.com.br",
+        "github": "Privado",
+        "images": ["meuquizz1.png"],
+        "description": "Projeto de iniciativa própria, surgiu para resolver uma necessidade pessoal de ter um App de Quizz que fosse muito fácil cadastrar novas perguntas, e que funcionasse como um poderoso banco de dados, planejador, arquivo de estudos e indicador de desempenho.",
+        "features": [
+          "Aplica testes de conhecimento por tema com tela de embasamento teórico e métricas de desempenho",
+          "CRUD de Perguntas e Respostas",
+          "CRUD de Categorias e Temas",
+          "CRUD de Trilhas de Estudos",
+          "CRUD Planejador de Estudos"
+        ]
+      },
+      {
+        "title": "Portfólio",
+        "technologies": ["Deployed","React", "Tailwind", "JavaScript"],
+        "github": "https://github.com/andreknapik/portfolio3",
+        "link": "https://meusquizzes.com.br",
+        "images": ["portfolio.png"],
+    "description": "O projeto é este próprio portfólio que foi desenvolvido de maneira mais simples e performática possível para priorizar rapidez na experiência do usuário, que o acessa para encontrar respotas rápidas sobre meu trabalho.",
+        "features": [
+          "Responsivo",
+          "Categorias Reduzidas",
+          "Apresentação Simples",
+          "Extramamente Rápido",
+          "Filtro Eficaz"
+          
+        ]
+      },
+      {
+        "title": "Catálogo Star Wars",
+        "technologies": ["Deployed", "Angular"],
+        "github": "https://github.com/andreknapik/portfolio3",
+        "link": "https://meusquizzes.com.br",
+        "images": ["starwars.png"],
+        "description": "Solicitado como desafio de um Processo Seletivo, o projeto foi feito em menos de uma semana e é um Frond-End de uma das APIs de Start Wars mais populares do mundo, a SWAPI.DEV.",
+        "features": [
+          "Consome a API do catálogo Star Wars na Web",
+          "Faz listagem de itens com paginação",
+          "Faz busca dentro de várias páginas",
+          "Mantém resultado da busca mesmo após navegação em outras páginas",
+          "Responsivo",
+          "Trás uma página de Detalhes de cada Item com links relacionados",
+          "Possui quatro temas e mais um tema padrão"
+        ]
+      },
+      {
+        "title": "Achadinhos Bem Avaliados",
+        "technologies": ["Deployed", "React", "Tailwind", "TypeScript"],
+        "github": "Privado",
+        "link": "https://meusquizzes.com.br",
+        "images": ["achadinhos.png"],
+        "description": "Resolve o problema de centralizar e organizar os links e códigos para uma página comissionados de Achadinhos no Instagram.",
+        "features": [
+          "Responsivo",
+          "Faz listagem de itens",
+          "Extramamente Rápido",
+          "Copia e Cola links de maneira muito Rápida",
+          "Filtro Eficaz"
+        ]
+      },
+      {
+        "title": "Caixa de Ferramentas",
+        "technologies": ["Deployed", "Angular", "Tailwind", "TypeScript"],
+        "github": "Privado",
+        "link": "https://caixadeferramentas.com.br",
+        "images": ["caixadeferramentas.png"],
+        "description": "É uma Caixa de Ferramentas muito útil na internet, onde você pode calcular de maneiras simples equações desde básicas até um pouco mais complexas, como planejador financeiro por exemplo.",
+        "features": [
+          "Responsivo",
+          "Faz cálculos simples e complexos",
+          "Ajuda a planejar finanças",
+          "Faz conversões de moedas, medidas, temperaturas, tempo, distâncias e peso",
+          "Faz cálculos de porcentagem, juros, aposentadoria, cdb, cdi, poupança, inflação, etc.",
+          "Faz cálculos de cubagem, markup, preços e descontos para e-commerce"
+        ]
+      },
+      {
+        "title": "Quizz de CyberSegurança",
+        "technologies": ["Deployed", "React", "TypeScript", "Github Público"],
+        "github": "https://github.com/",
+        "link": "https://meusquizzes.com.br",
+        "images": ["quizcyber.png"],
+        "description": "A aplicação é basicamente um Quiz com questões de Cyber Segurança, mas que também pode ser facilmente convertido em outros conteúdos. Neste Quiz, a partir de um JSON você pode passar as questões e respostas, separando em categorias conforme a necessidade. São quatro opções de respostas, sendo ainda possível ter uma chance de escolher um benefício na Questão, que pode ser Excluir uma opção ou ainda pedir uma Dica de resposta. No final, o App diz quantas questões você acertou e errou, bem como o percentual e sua nota.",
+        "features": [
+          "Número de Questões praticamente Ilimitado *",
+          "Integra questões por JSON",
+          "Divide Questões por Categorias ou Temas",
+          "Benefícios opcionais em questões, sendo: nada, dica ou excluir",
+          "Responsivo"
+        ]
+      }
+
+],
+  "colaborations": [
+    {
+      "title": "TREINAR",
+      "technologies": ["React", "TypeScript", ".NET", "PostgreSQL"],
+      "github": "Privado",
+      "link": "https://meusquizzes.com.br",
+      "images": ["horusweb.png"],
+      "description": "O Programa de Treinamento para Profissionais de Aeroportos (TREINAR) é uma iniciativa da SAC/MPOR que promove ações de capacitação por meio de cursos em diversas áreas de conhecimento, possibilitando a atualização dos conceitos e fomentando o crescimento sustentável da malha aérea civil, no intuito de aprimorar os serviços prestados por aeródromos brasileiros, fornecendo conhecimento básico sobre gestão, segurança e operação de aeroportos.",
+      "features": [
+        "Responsivo",
+        "Crud de Aeródromos",
+        "Crud de Gestores de Aeródromos",
+        "Crud de Cursos",
+        "Crud de Turmas",
+        "Gerencia Fluxo de Cursos e Turmas"
+      ]
+    },
+    {
+      "title": "FAUNA",
+      "technologies": ["React","JavaScript",".NET","PostgreSQL"],
+      "github": "Privado",
+      "link": "https://meusquizzes.com.br",
+      "images": ["horusweb2.png"],
+      "description": "O projeto FAUNA está sendo desenvolvido para dar maior agilidade a identificação da fauna e sugestão de soluções, especialmente dentro de aeródromos para que medidas preventivas possam ser tomadas aumentando a segurança da aviação, reduzindo colisões, riscos, e outras questões relacionadas.",
+      "features": [
+        "Responsivo",
+        "Crud de Usuários",
+        "Crud de Aeródromos",
+        "Crud de Laboratórios",
+        "Crud de Amostras",
+        "Gerencia Fluxo de Amostras"
+      ]
+    }
+]
+}
+     
