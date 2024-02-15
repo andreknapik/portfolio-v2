@@ -18,7 +18,7 @@
       {
         "title": "Portfólio",
         "technologies": ["Deployed","React", "Tailwind", "JavaScript"],
-        "github": "https://github.com/andreknapik/portfolio3",
+        "github": "https://github.com/andreknapik/portfolio-v2",
         "link": "https://meusquizzes.com.br",
         "images": ["portfolio.png"],
     "description": "O projeto é este próprio portfólio que foi desenvolvido de maneira mais simples e performática possível para priorizar rapidez na experiência do usuário, que o acessa para encontrar respotas rápidas sobre meu trabalho.",
