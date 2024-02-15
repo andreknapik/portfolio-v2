@@ -71,28 +71,28 @@ const Header = () => {
               </Link>
             </div>
             <div className="flex items-center">
-              <a className="text-black hover:text-gray-300 flex items-center" onClick={(event) => handleExternalLinkClick("https://www.linkedin.com/in/andreknapik", event)}>
+              <span className="text-black hover:text-gray-300 flex items-center" onClick={(event) => handleExternalLinkClick("https://www.linkedin.com/in/andreknapik", event)}>
                 <FaLinkedin size={20} />
                 <span className="ml-2">Linkedin</span>
-              </a>
+            </span>
             </div>
-            <div className="flex items-center">
-              <a className="text-black hover:text-gray-300 flex items-center" onClick={(event) => handleExternalLinkClick("https://github.com/andreknapik", event)}>
+            <div href="#" className="flex items-center">
+              <span className="text-black hover:text-gray-300 flex items-center" onClick={(event) => handleExternalLinkClick("https://github.com/andreknapik", event)}>
                 <FaGithub size={20} />
                 <span className="ml-2">GitHub</span>
-              </a>
+              </span>
             </div>
             <div className="flex items-center">
-              <a className="text-black hover:text-gray-300 flex items-center" onClick={(event) => handleExternalLinkClick("mailto:andreprogramador5@gmail.com", event)}>
+              <span href="#" className="text-black hover:text-gray-300 flex items-center" onClick={(event) => handleExternalLinkClick("mailto:andreprogramador5@gmail.com", event)}>
                 <FaEnvelope size={20} />
                 <span className="ml-2">E-mail</span>
-              </a>
+              </span>
             </div>
             <div className="flex items-center">
-              <a className="text-black hover:text-gray-300 flex items-center" onClick={(event) => handleExternalLinkClick("https://wa.me/5541997099212", event)}>
+              <span href="#" className="text-black hover:text-gray-300 flex items-center" onClick={(event) => handleExternalLinkClick("https://wa.me/5541997099212", event)}>
                 <FaWhatsapp size={20} />
                 <span className="ml-2">Whatsapp</span>
-              </a>
+              </span>
             </div>
           </div>
         </div>
